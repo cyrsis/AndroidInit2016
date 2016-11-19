@@ -20,6 +20,11 @@ Execute .\cmder.exe /REGISTER ALL If you get a message "Access Denied" ensure yo
 
 [Download the theme](https://github.com/cyrsis/AndroidInit2016/blob/master/cmder/materialshell-dark.xml)
 
+# Cmder -> Import the theme
+
+Cmder > Settings > Import ...
+Select one of the themes located at windows/cmder/.
+
 ## Stage 2- Need to do some UI development
 
 
