@@ -10,6 +10,14 @@ Here is to-do list for every project u want to build
 
 [Android Studio and Setup in Android Studios in 2016](https://github.com/cyrsis/Android-developer-Super-Tools)
 
+
+[Setup Cmder](https://github.com/cmderdev/cmder)
+
+> Shortcut to open Cmder in a chosen folder
+Open a terminal as an Administrator
+Navigate to the directory you have placed Cmder
+Execute .\cmder.exe /REGISTER ALL If you get a message "Access Denied" ensure you are executing the command in an Administrator prompt.
+
 ## Stage 2- Need to do some UI development
 
 
