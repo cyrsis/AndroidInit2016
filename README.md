@@ -18,6 +18,8 @@ Open a terminal as an Administrator
 Navigate to the directory you have placed Cmder
 Execute .\cmder.exe /REGISTER ALL If you get a message "Access Denied" ensure you are executing the command in an Administrator prompt.
 
+[Download the theme](https://github.com/cyrsis/AndroidInit2016/blob/master/cmder/materialshell-dark.xml)
+
 ## Stage 2- Need to do some UI development
 
 
